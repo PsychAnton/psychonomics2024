@@ -1,5 +1,7 @@
 # Assessing the Influence of Cognitive Dual-Task Demands on Postural Control: An Event‑Related Approach Using Continuous Force‑Plate Data
+
 Anton Koger[1], Leif Johannsen[1], Andrea Kiesel[2], Iring Koch[1], Raphael Hartmann[2], Hermann Müller[3], Elisa Straub[2], and Denise N. Stephan[1]
+
 [1] RWTH Aachen University, [2] University of Freiburg, [3] University of Gießen
 
 ## 65th Annual Meeting of the Psychonomic Society • New York City • November 21-24 2024
